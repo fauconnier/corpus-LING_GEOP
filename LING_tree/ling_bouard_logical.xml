@@ -6165,7 +6165,7 @@
     <Word x1="379" y1="414" x2="388" y2="424" font="TimesNewRoman" style="font-size:10pt">de</Word>
     <Word x1="391" y1="414" x2="424" y2="424" font="TimesNewRoman" style="font-size:10pt">réponse.</Word>
   </Chunk>
-  <Chunk x1="85" y1="432" x2="510" y2="499" depId="66" depType="p" depRel="coord" type="p" id="67">
+  <Chunk x1="85" y1="432" x2="510" y2="499" depId="66" depType="p" depRel="sub" type="p_item" id="67">
     <Word x1="85" y1="432" x2="143" y2="442" font="TimesNewRoman" style="font-size:10pt">Premièrement,</Word>
     <Word x1="147" y1="432" x2="155" y2="442" font="TimesNewRoman" style="font-size:10pt">ce</Word>
     <Word x1="159" y1="432" x2="172" y2="442" font="TimesNewRoman" style="font-size:10pt">qui</Word>
@@ -6241,7 +6241,7 @@
     <Word x1="467" y1="478" x2="510" y2="488" font="TimesNewRoman" style="font-size:10pt">grammaire</Word>
     <Word x1="85" y1="489" x2="121" y2="499" font="TimesNewRoman" style="font-size:10pt">générale.</Word>
   </Chunk>
-  <Chunk x1="85" y1="507" x2="510" y2="574" depId="67" depType="p" depRel="coord" type="p" id="68">
+  <Chunk x1="85" y1="507" x2="510" y2="574" depId="67" depType="p" depRel="coord" type="p_item" id="68">
     <Word x1="85" y1="507" x2="148" y2="517" font="TimesNewRoman" style="font-size:10pt">Deuxièmement,</Word>
     <Word x1="153" y1="507" x2="194" y2="517" font="TimesNewRoman" style="font-size:10pt">l’historien</Word>
     <Word x1="198" y1="507" x2="212" y2="517" font="TimesNewRoman" style="font-size:10pt">des</Word>
