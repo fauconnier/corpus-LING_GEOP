@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="116" y1="142" x2="468" y2="177" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="116" y1="142" x2="468" y2="177" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="116" y1="142" x2="138" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">Un</Word>
     <Word x1="142" y1="142" x2="194" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">nouvel</Word>
     <Word x1="198" y1="142" x2="236" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">objet</Word>

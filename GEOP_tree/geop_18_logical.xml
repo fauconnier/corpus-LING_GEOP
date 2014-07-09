@@ -11,13 +11,13 @@
   <Chunk x1="285" y1="91" x2="309" y2="105" depId="1" depType="byline" depRel="coord" type="byline" id="2">
     <Word x1="285" y1="91" x2="309" y2="105" font="Arial" style="font-size:12pt;font-style:Bold">CFE</Word>
   </Chunk>
-  <Chunk x1="215" y1="244" x2="380" y2="259" depId="2" depType="byline" depRel="coord" type="byline" id="3">
+  <Chunk x1="215" y1="244" x2="380" y2="259" depId="0" depType="root" depRel="sub" type="doctitle" id="3">
     <Word x1="215" y1="244" x2="252" y2="259" font="TimesNewRoman" style="font-size:14pt;font-style:BoldItalic">Force,</Word>
     <Word x1="256" y1="244" x2="309" y2="259" font="TimesNewRoman" style="font-size:14pt;font-style:BoldItalic">faiblesse,</Word>
     <Word x1="312" y1="244" x2="369" y2="259" font="TimesNewRoman" style="font-size:14pt;font-style:BoldItalic">puissance</Word>
     <Word x1="373" y1="244" x2="380" y2="259" font="TimesNewRoman" style="font-size:14pt;font-style:BoldItalic">?</Word>
   </Chunk>
-  <Chunk x1="233" y1="273" x2="361" y2="284" depId="3" depType="byline" depRel="coord" type="byline" id="4">
+  <Chunk x1="233" y1="273" x2="361" y2="284" depId="0" depType="root" depRel="sub" type="byline" id="4">
     <Word x1="233" y1="273" x2="293" y2="284" font="TimesNewRoman" style="font-size:10pt;font-style:BoldItalic">GUILLAUME</Word>
     <Word x1="296" y1="273" x2="361" y2="284" font="TimesNewRoman" style="font-size:10pt;font-style:BoldItalic">PARMENTIER</Word>
   </Chunk>
@@ -34,7 +34,7 @@
   <Chunk x1="256" y1="515" x2="338" y2="529" depId="5" depType="byline" depRel="coord" type="byline" id="6">
     <Word x1="256" y1="515" x2="338" y2="529" font="TimesNewRoman" style="font-size:12pt">www.cfe-ifri.org</Word>
   </Chunk>
-  <Chunk x1="70" y1="91" x2="524" y2="340" depId="0" depType="root" depRel="sub" type="p" id="7">
+  <Chunk x1="70" y1="91" x2="524" y2="340" depId="3" depType="doctitle" depRel="sub" type="p" id="7">
     <Word x1="106" y1="91" x2="140" y2="105" font="TimesNewRoman" style="font-size:12pt">Depuis</Word>
     <Word x1="149" y1="91" x2="158" y2="105" font="TimesNewRoman" style="font-size:12pt">la</Word>
     <Word x1="167" y1="91" x2="180" y2="105" font="TimesNewRoman" style="font-size:12pt">fin</Word>

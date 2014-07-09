@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="85" y1="142" x2="509" y2="159" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="85" y1="142" x2="509" y2="159" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="85" y1="142" x2="131" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">Genre</Word>
     <Word x1="136" y1="142" x2="150" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">et</Word>
     <Word x1="155" y1="142" x2="230" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">variations</Word>

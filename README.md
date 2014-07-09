@@ -18,7 +18,7 @@
 
 The construction of LING_GEOP is described in :
 
-* Jean-Philippe Fauconnier, Laurent Sorin, Mouna Kamel, Mustapha Mojahid, Nathalie Aussenac-Gilles.    Détection automatique de la structure organisationnelle de documents à partir de marqueurs visuels et lexico-syntaxiques (regular paper). Dans : Traitement Automatique des Langues Naturelles (TALN 2014), Marseille, 01/07/2014-04/07/2014s, (Eds.), 2014 (à paraître). [paper_version](http://dl.bintray.com/jfaucon/Archive/paper_version_corpus.zip)
+* Jean-Philippe Fauconnier, Laurent Sorin, Mouna Kamel, Mustapha Mojahid, Nathalie Aussenac-Gilles.    Détection automatique de la structure organisationnelle de documents à partir de marqueurs visuels et lexicaux (regular paper). Dans : Traitement Automatique des Langues Naturelles (TALN 2014), Marseille, 01/07/2014-04/07/2014s, (Eds.), 2014 (à paraître). [paper_version](http://dl.bintray.com/jfaucon/Archive/paper_version_corpus.zip)
 
 The ANNODIS corpus is described in :
 

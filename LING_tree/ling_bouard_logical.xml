@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="97" y1="142" x2="497" y2="177" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="97" y1="142" x2="497" y2="177" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="97" y1="142" x2="195" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">L’émergence</Word>
     <Word x1="199" y1="142" x2="218" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">de</Word>
     <Word x1="222" y1="142" x2="236" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">la</Word>

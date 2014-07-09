@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="88" y1="142" x2="506" y2="177" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="88" y1="142" x2="506" y2="177" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="88" y1="142" x2="164" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">Typologie</Word>
     <Word x1="168" y1="142" x2="196" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">des</Word>
     <Word x1="200" y1="142" x2="297" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">propositions</Word>

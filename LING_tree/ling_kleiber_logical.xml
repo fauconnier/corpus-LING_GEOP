@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="90" y1="142" x2="504" y2="177" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="90" y1="142" x2="504" y2="177" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="90" y1="142" x2="124" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">Petit</Word>
     <Word x1="129" y1="142" x2="169" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">essai</Word>
     <Word x1="173" y1="142" x2="209" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">pour</Word>

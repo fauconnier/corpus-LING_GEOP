@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="182" y1="101" x2="413" y2="133" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="182" y1="101" x2="413" y2="133" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="203" y1="101" x2="227" y2="116" font="Arial" style="font-size:14pt;font-style:Bold">Les</Word>
     <Word x1="231" y1="101" x2="300" y2="116" font="Arial" style="font-size:14pt;font-style:Bold">États-Unis</Word>
     <Word x1="304" y1="101" x2="317" y2="116" font="Arial" style="font-size:14pt;font-style:Bold">et</Word>
@@ -14,7 +14,7 @@
     <Word x1="356" y1="118" x2="373" y2="133" font="Arial" style="font-size:14pt;font-style:Bold">du</Word>
     <Word x1="377" y1="118" x2="413" y2="133" font="Arial" style="font-size:14pt;font-style:Bold">Golfe</Word>
   </Chunk>
-  <Chunk x1="422" y1="152" x2="496" y2="167" depId="1" depType="byline" depRel="coord" type="byline" id="2">
+  <Chunk x1="422" y1="152" x2="496" y2="167" depId="1" depType="doctitle" depRel="sub" type="byline" id="2">
     <Word x1="422" y1="152" x2="461" y2="167" font="Arial" style="font-size:14pt;font-style:Bold">Pierre</Word>
     <Word x1="465" y1="152" x2="496" y2="167" font="Arial" style="font-size:14pt;font-style:Bold">Noël</Word>
   </Chunk>

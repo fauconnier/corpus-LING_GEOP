@@ -6,7 +6,7 @@
     <Word x1="169" y1="70" x2="180" y2="84" font="TimesNewRoman" style="font-size:12pt">de</Word>
     <Word x1="183" y1="70" x2="220" y2="84" font="TimesNewRoman" style="font-size:12pt">Chantal</Word>
   </Chunk>
-  <Chunk x1="177" y1="167" x2="455" y2="181" depId="1" depType="byline" depRel="coord" type="byline" id="2">
+  <Chunk x1="177" y1="167" x2="455" y2="181" depId="0" depType="root" depRel="sub" type="doctitle" id="2">
     <Word x1="177" y1="167" x2="189" y2="181" font="TimesNewRoman" style="font-size:12pt;font-style:Italic">La</Word>
     <Word x1="192" y1="167" x2="214" y2="181" font="TimesNewRoman" style="font-size:12pt;font-style:Italic">lutte</Word>
     <Word x1="217" y1="167" x2="247" y2="181" font="TimesNewRoman" style="font-size:12pt;font-style:Italic">contre</Word>
@@ -17,7 +17,7 @@
     <Word x1="364" y1="167" x2="389" y2="181" font="TimesNewRoman" style="font-size:12pt;font-style:Italic">bilan</Word>
     <Word x1="392" y1="167" x2="455" y2="181" font="TimesNewRoman" style="font-size:12pt;font-style:Italic">institutionnel</Word>
   </Chunk>
-  <Chunk x1="70" y1="250" x2="524" y2="264" depId="2" depType="byline" depRel="coord" type="byline" id="3">
+  <Chunk x1="70" y1="250" x2="524" y2="264" depId="0" depType="root" depRel="sub" type="byline" id="3">
     <Word x1="70" y1="250" x2="111" y2="264" font="TimesNewRoman" style="font-size:12pt">François</Word>
     <Word x1="115" y1="250" x2="166" y2="264" font="TimesNewRoman" style="font-size:12pt">Vergniolle</Word>
     <Word x1="170" y1="250" x2="181" y2="264" font="TimesNewRoman" style="font-size:12pt">de</Word>
@@ -44,7 +44,7 @@
     <Word x1="342" y1="277" x2="353" y2="291" font="TimesNewRoman" style="font-size:12pt">de</Word>
     <Word x1="356" y1="277" x2="413" y2="291" font="TimesNewRoman" style="font-size:12pt">Bourgogne.</Word>
   </Chunk>
-  <Chunk x1="70" y1="374" x2="524" y2="388" depId="0" depType="root" depRel="sub" type="p" id="4">
+  <Chunk x1="70" y1="374" x2="524" y2="388" depId="2" depType="doctitle" depRel="sub" type="p" id="4">
     <Word x1="106" y1="374" x2="139" y2="388" font="TimesNewRoman" style="font-size:12pt">Depuis</Word>
     <Word x1="143" y1="374" x2="160" y2="388" font="TimesNewRoman" style="font-size:12pt">une</Word>
     <Word x1="164" y1="374" x2="220" y2="388" font="TimesNewRoman" style="font-size:12pt">quarantaine</Word>

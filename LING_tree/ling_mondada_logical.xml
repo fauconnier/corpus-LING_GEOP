@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="116" y1="142" x2="479" y2="159" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="116" y1="142" x2="479" y2="159" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="116" y1="142" x2="220" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">Contributions</Word>
     <Word x1="225" y1="142" x2="244" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">de</Word>
     <Word x1="248" y1="142" x2="261" y2="159" font="Arial" style="font-size:16pt;font-style:Bold">la</Word>

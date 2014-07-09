@@ -11,7 +11,7 @@
   <Chunk x1="283" y1="89" x2="311" y2="104" depId="1" depType="byline" depRel="coord" type="byline" id="2">
     <Word x1="283" y1="89" x2="311" y2="104" font="TimesNewRoman" style="font-size:14pt;font-style:Bold">CFE</Word>
   </Chunk>
-  <Chunk x1="140" y1="254" x2="455" y2="269" depId="2" depType="byline" depRel="coord" type="byline" id="3">
+  <Chunk x1="140" y1="254" x2="455" y2="269" depId="0" depType="root" depRel="coord" type="doctitle" id="3">
     <Word x1="140" y1="254" x2="189" y2="269" font="TimesNewRoman" style="font-size:14pt;font-style:Bold">Libertés</Word>
     <Word x1="193" y1="254" x2="229" y2="269" font="TimesNewRoman" style="font-size:14pt;font-style:Bold">civiles</Word>
     <Word x1="233" y1="254" x2="244" y2="269" font="TimesNewRoman" style="font-size:14pt;font-style:Bold">et</Word>
@@ -20,7 +20,7 @@
     <Word x1="366" y1="254" x2="388" y2="269" font="TimesNewRoman" style="font-size:14pt;font-style:Bold">aux</Word>
     <Word x1="392" y1="254" x2="455" y2="269" font="TimesNewRoman" style="font-size:14pt;font-style:Bold">Etats-Unis</Word>
   </Chunk>
-  <Chunk x1="174" y1="282" x2="420" y2="340" depId="3" depType="byline" depRel="coord" type="byline" id="4">
+  <Chunk x1="174" y1="282" x2="420" y2="340" depId="0" depType="root" depRel="sub" type="byline" id="4">
     <Word x1="222" y1="282" x2="263" y2="296" font="TimesNewRoman" style="font-size:12pt">François</Word>
     <Word x1="266" y1="282" x2="318" y2="296" font="TimesNewRoman" style="font-size:12pt">Vergniolle</Word>
     <Word x1="321" y1="282" x2="332" y2="296" font="TimesNewRoman" style="font-size:12pt">de</Word>
@@ -45,7 +45,7 @@
   <Chunk x1="256" y1="513" x2="338" y2="527" depId="5" depType="byline" depRel="coord" type="byline" id="6">
     <Word x1="256" y1="513" x2="338" y2="527" font="TimesNewRoman" style="font-size:12pt">www.cfe-ifri.org</Word>
   </Chunk>
-  <Chunk x1="99" y1="70" x2="496" y2="84" depId="0" depType="root" depRel="sub" type="p" id="7">
+  <Chunk x1="99" y1="70" x2="496" y2="84" depId="3" depType="doctitle" depRel="sub" type="p" id="7">
     <Word x1="127" y1="70" x2="155" y2="84" font="TimesNewRoman" style="font-size:12pt">Outre</Word>
     <Word x1="158" y1="70" x2="173" y2="84" font="TimesNewRoman" style="font-size:12pt">ses</Word>
     <Word x1="177" y1="70" x2="243" y2="84" font="TimesNewRoman" style="font-size:12pt">conséquences</Word>

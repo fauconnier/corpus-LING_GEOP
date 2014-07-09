@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="221" y1="137" x2="358" y2="169" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="221" y1="137" x2="358" y2="169" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="221" y1="137" x2="240" y2="153" font="Arial-BoldMT" style="font-size:14pt">Du</Word>
     <Word x1="245" y1="137" x2="271" y2="153" font="Arial-BoldMT" style="font-size:14pt">bon</Word>
     <Word x1="276" y1="137" x2="316" y2="153" font="Arial-BoldMT" style="font-size:14pt">usage</Word>
@@ -12,7 +12,7 @@
     <Word x1="74" y1="148" x2="127" y2="161" font="ArialMT" style="font-size:11pt">Frédérique</Word>
     <Word x1="131" y1="148" x2="193" y2="161" font="ArialMT" style="font-size:11pt">SACHWALD</Word>
   </Chunk>
-  <Chunk x1="74" y1="205" x2="402" y2="374" depId="0" depType="root" depRel="sub" type="p" id="3">
+  <Chunk x1="74" y1="205" x2="402" y2="374" depId="1" depType="doctitle" depRel="sub" type="p" id="3">
     <Word x1="74" y1="205" x2="85" y2="218" font="AGaramond-Italic" style="font-size:11pt">La</Word>
     <Word x1="89" y1="205" x2="149" y2="218" font="AGaramond-Italic" style="font-size:11pt">mondialisation</Word>
     <Word x1="153" y1="205" x2="163" y2="218" font="AGaramond-Italic" style="font-size:11pt">est</Word>

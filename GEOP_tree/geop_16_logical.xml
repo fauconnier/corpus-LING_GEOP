@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Chunk x1="198" y1="137" x2="330" y2="185" depId="0" depType="root" depRel="sub" type="byline" id="1">
+  <Chunk x1="198" y1="137" x2="330" y2="185" depId="0" depType="root" depRel="sub" type="doctitle" id="1">
     <Word x1="198" y1="137" x2="216" y2="153" font="Arial-BoldMT" style="font-size:14pt">De</Word>
     <Word x1="221" y1="137" x2="256" y2="153" font="Arial-BoldMT" style="font-size:14pt">Doha</Word>
     <Word x1="261" y1="137" x2="269" y2="153" font="Arial-BoldMT" style="font-size:14pt">à</Word>
@@ -12,11 +12,11 @@
     <Word x1="198" y1="169" x2="215" y2="185" font="Arial-BoldMT" style="font-size:14pt">de</Word>
     <Word x1="220" y1="169" x2="306" y2="185" font="Arial-BoldMT" style="font-size:14pt">négociations</Word>
   </Chunk>
-  <Chunk x1="74" y1="156" x2="170" y2="169" depId="1" depType="byline" depRel="coord" type="byline" id="2">
+  <Chunk x1="74" y1="156" x2="170" y2="169" depId="1" depType="doctitle" depRel="sub" type="byline" id="2">
     <Word x1="74" y1="156" x2="126" y2="169" font="ArialMT" style="font-size:11pt">Paul-Henri</Word>
     <Word x1="130" y1="156" x2="170" y2="169" font="ArialMT" style="font-size:11pt">RAVIER</Word>
   </Chunk>
-  <Chunk x1="74" y1="215" x2="402" y2="372" depId="0" depType="root" depRel="sub" type="p" id="3">
+  <Chunk x1="74" y1="215" x2="402" y2="372" depId="1" depType="doctitle" depRel="sub" type="p" id="3">
     <Word x1="74" y1="215" x2="84" y2="228" font="AGaramond-Italic" style="font-size:11pt">Le</Word>
     <Word x1="89" y1="215" x2="107" y2="228" font="AGaramond-Italic" style="font-size:11pt">cycle</Word>
     <Word x1="112" y1="215" x2="121" y2="228" font="AGaramond-Italic" style="font-size:11pt">de</Word>
