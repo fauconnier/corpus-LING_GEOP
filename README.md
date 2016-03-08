@@ -16,15 +16,15 @@
 
 ## References
 
-The construction of LING_GEOP is described in :
+The construction of LING_GEOP is described in:
 
-* Jean-Philippe Fauconnier, Laurent Sorin, Mouna Kamel, Mustapha Mojahid, Nathalie Aussenac-Gilles.    Détection automatique de la structure organisationnelle de documents à partir de marqueurs visuels et lexicaux (regular paper). Dans : Traitement Automatique des Langues Naturelles (TALN 2014), Marseille, 01/07/2014-04/07/2014s, (Eds.), 2014 (à paraître). [paper_version](http://dl.bintray.com/jfaucon/Archive/paper_version_corpus.zip)
+* Jean-Philippe Fauconnier, Laurent Sorin, Mouna Kamel, Mustapha Mojahid, Nathalie Aussenac-Gilles.    Détection automatique de la structure organisationnelle de documents à partir de marqueurs visuels et lexicaux (regular paper). Dans : Traitement Automatique des Langues Naturelles (TALN 2014), Marseille, 01/07/2014-04/07/2014s, (Eds.), 2014 
 
-The ANNODIS corpus is described in :
+The ANNODIS corpus is described in:
 
 * Péry-Woodley, M. P., Afantenos, S., Ho-Dac, L. M., & Asher, N. (2011). La ressource ANNODIS, un corpus enrichi d'annotations discursives. Traitement Automatique des Langues, 52(3), 71-101.
 s
 
-The tool LA-PDFText is described in :
+The LA-PDFText tool is described in:
 
 * Ramakrishnan, C., A. Patnia, E. Hovy and G. Burns (2012). "Layout-Aware Text Extraction from Full-text PDF of Scientific Articles." Source Code for Biology and Medicine 7(1): 7.
